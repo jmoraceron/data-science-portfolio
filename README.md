@@ -1,3 +1,7 @@
+Hello! I'm Johana and this is my Data scientist portfolio. This overview only provides brief descriptions of each project. For a comprehensive understanding, it is recommended to explore each project individually for more detailed insights. Thank you for reading!
+
+_________________________________________________________________________________________________________________________________________________
+
 * Implementation of Descriptive Statistics
 
 Topic 1: Demographic of Barcelona.

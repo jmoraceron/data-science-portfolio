@@ -1,4 +1,4 @@
-Hello! I'm Johana and this is my Data scientist portfolio. This overview only provides brief descriptions of each project. For a comprehensive understanding, it is recommended to explore each project individually for more detailed insights. Thank you for reading!
+Hello! I'm Johana and this is my data analyst and data science portfolio. This overview only provides brief descriptions of each project. For a comprehensive understanding, it is recommended to explore each project individually for more detailed insights. Thank you for reading!
 
 _________________________________________________________________________________________________________________________________________________
 
